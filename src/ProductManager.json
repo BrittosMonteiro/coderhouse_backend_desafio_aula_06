@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nome": "Smartphone X1",
+      "descricao": "Smartphone com tela de 6.5 polegadas, 128GB de armazenamento e câmera de 48MP.",
+      "preco": 2999.99
+    },
+    {
+      "id": 2,
+      "nome": "Notebook Pro 15",
+      "descricao": "Notebook de alto desempenho com processador i7, 16GB de RAM e 512GB SSD.",
+      "preco": 5999.99
+    },
+    {
+      "id": 3,
+      "nome": "Smart TV 55 4K",
+      "descricao": "Smart TV LED de 55 polegadas com resolução 4K e integração com assistentes virtuais.",
+      "preco": 3499.99
+    },
+    {
+      "id": 4,
+      "nome": "Tablet Ultra 10",
+      "descricao": "Tablet com tela de 10 polegadas, 64GB de armazenamento e suporte para caneta digital.",
+      "preco": 1999.99
+    },
+    {
+      "id": 5,
+      "nome": "Fone de Ouvido Bluetooth Pro",
+      "descricao": "Fone de ouvido sem fio com cancelamento de ruído ativo e autonomia de 30 horas.",
+      "preco": 899.99
+    },
+    {
+      "id": 6,
+      "nome": "Console de Videogame V5",
+      "descricao": "Console de última geração com suporte para jogos em 4K e 1TB de armazenamento.",
+      "preco": 4499.99
+    },
+    {
+      "id": 7,
+      "nome": "Câmera Digital HD",
+      "descricao": "Câmera digital com lente intercambiável e gravação em 1080p.",
+      "preco": 2799.99
+    },
+    {
+      "id": 8,
+      "nome": "Caixa de Som Bluetooth",
+      "descricao": "Caixa de som portátil com conexão Bluetooth e autonomia de 20 horas.",
+      "preco": 499.99
+    },
+    {
+      "id": 9,
+      "nome": "Smartwatch X300",
+      "descricao": "Relógio inteligente com monitoramento de saúde, GPS e resistência à água.",
+      "preco": 1299.99
+    },
+    {
+      "id": 10,
+      "nome": "Drone Câmera 4K",
+      "descricao": "Drone com câmera 4K, estabilização de imagem e alcance de 5km.",
+      "preco": 3999.99
+    },
+    {
+      "id": 11,
+      "nome": "Monitor Curvo 34",
+      "descricao": "Monitor curvo de 34 polegadas com resolução ultrawide e taxa de atualização de 144Hz.",
+      "preco": 2599.99
+    },
+    {
+      "id": 12,
+      "nome": "Mouse Gamer RGB",
+      "descricao": "Mouse gamer com iluminação RGB, 16000 DPI e botões programáveis.",
+      "preco": 299.99
+    },
+    {
+      "id": 13,
+      "nome": "Teclado Mecânico",
+      "descricao": "Teclado mecânico com switches Cherry MX e iluminação RGB.",
+      "preco": 499.99
+    },
+    {
+      "id": 14,
+      "nome": "Câmera de Segurança Wi-Fi",
+      "descricao": "Câmera de segurança com conexão Wi-Fi e gravação em nuvem.",
+      "preco": 599.99
+    },
+    {
+      "id": 15,
+      "nome": "Smart Display 10",
+      "descricao": "Display inteligente com assistente virtual e tela de 10 polegadas.",
+      "preco": 999.99
+    },
+    {
+      "id": 16,
+      "nome": "Roteador Wi-Fi 6",
+      "descricao": "Roteador com suporte para Wi-Fi 6, velocidades de até 1Gbps e ampla cobertura.",
+      "preco": 699.99
+    },
+    {
+      "id": 17,
+      "nome": "Impressora Multifuncional",
+      "descricao": "Impressora multifuncional com scanner e impressão em alta resolução.",
+      "preco": 799.99
+    },
+    {
+      "id": 18,
+      "nome": "Airfryer Digital",
+      "descricao": "Fritadeira elétrica com controle digital e capacidade de 4 litros.",
+      "preco": 499.99
+    },
+    {
+      "id": 19,
+      "nome": "Headset Gamer",
+      "descricao": "Headset com microfone ajustável, som surround 7.1 e iluminação LED.",
+      "preco": 399.99
+    },
+    {
+      "id": 20,
+      "nome": "Smart Speaker",
+      "descricao": "Caixa de som inteligente com assistente de voz integrado e som de alta qualidade.",
+      "preco": 599.99
+    },
+    {
+      "id": 21,
+      "nome": "Geladeira Inverter 400L",
+      "descricao": "Geladeira com tecnologia inverter e capacidade de 400 litros.",
+      "preco": 3499.99
+    },
+    {
+      "id": 22,
+      "nome": "Máquina de Lavar 12kg",
+      "descricao": "Máquina de lavar roupas com capacidade de 12kg e 15 programas de lavagem.",
+      "preco": 2999.99
+    },
+    {
+      "id": 23,
+      "nome": "Purificador de Água",
+      "descricao": "Purificador de água com filtro de carvão ativado e resfriamento rápido.",
+      "preco": 899.99
+    },
+    {
+      "id": 24,
+      "nome": "Forno Elétrico 40L",
+      "descricao": "Forno elétrico de 40 litros com controle de temperatura e timer.",
+      "preco": 699.99
+    },
+    {
+      "id": 25,
+      "nome": "Projetor Full HD",
+      "descricao": "Projetor com resolução Full HD, 3000 lúmens e conexão HDMI.",
+      "preco": 1899.99
+    },
+    {
+      "id": 26,
+      "nome": "Cafeteira Automática",
+      "descricao": "Cafeteira automática com moedor de grãos e diversas opções de bebidas.",
+      "preco": 1299.99
+    },
+    {
+      "id": 27,
+      "nome": "Micro-ondas 30L",
+      "descricao": "Micro-ondas com 30 litros de capacidade e função grill.",
+      "preco": 699.99
+    },
+    {
+      "id": 28,
+      "nome": "Batedeira Planetária",
+      "descricao": "Batedeira com 8 velocidades e tigela de inox com capacidade de 4 litros.",
+      "preco": 399.99
+    },
+    {
+      "id": 29,
+      "nome": "Liquidificador 1200W",
+      "descricao": "Liquidificador com 1200W de potência e jarra de vidro de 2 litros.",
+      "preco": 299.99
+    },
+    {
+      "id": 30,
+      "nome": "Ventilador de Coluna",
+      "descricao": "Ventilador de coluna com ajuste de altura e controle remoto.",
+      "preco": 299.99
+    }
+  ]
+}
